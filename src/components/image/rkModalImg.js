@@ -332,7 +332,7 @@ export class RkModalImg extends RkComponent {
       img,
       imgContainer,
       modal,
-      modalImg,
+      modalImg
     } = this.defineStyles();
 
     this.styles = {
